@@ -1,0 +1,23 @@
+.div15 {
+  position: relative;
+  font-size: var(--medium-t-size);
+  letter-spacing: 0.1em;
+  line-height: 150%;
+  font-weight: 500;
+  font-family: var(--s-t);
+  color: var(--primary-white);
+  text-align: center;
+}
+.login1 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-sm) var(--padding-50xl) var(--padding-base);
+  background-color: var(--carnation-300);
+  width: 172px;
+  border-radius: var(--br-7xs);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}

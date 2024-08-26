@@ -1,0 +1,73 @@
+.a {
+  text-decoration: none;
+  position: relative;
+  letter-spacing: 0.1em;
+  line-height: 160%;
+  color: inherit;
+}
+.sitemap2 {
+  width: 1016.1px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 0 0 var(--padding-301xl);
+  box-sizing: border-box;
+  gap: var(--gap-41xl);
+}
+.vector-icon12 {
+  position: absolute;
+  height: 83.33%;
+  width: 100%;
+  top: 8.33%;
+  right: 0;
+  bottom: 8.33%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.iconmonstr-shopping-cart-thin1 {
+  text-decoration: none;
+  width: 30px;
+  position: relative;
+  height: 30px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.vector-icon13 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.navbar1,
+.user-cart-hamburger-button1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.user-cart-hamburger-button1 {
+  justify-content: center;
+  gap: var(--gap-21xl);
+}
+.navbar1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 80px;
+  justify-content: space-between;
+  padding: 0 var(--padding-81xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--regular-t-size);
+  color: var(--medium-blue);
+  font-family: var(--s-t);
+}

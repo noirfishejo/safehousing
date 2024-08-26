@@ -1,0 +1,23 @@
+.div16 {
+  position: relative;
+  font-size: var(--medium-t-size);
+  letter-spacing: 0.1em;
+  line-height: 150%;
+  font-weight: 500;
+  font-family: var(--s-t);
+  color: var(--medium-blue);
+  text-align: center;
+}
+.signup1 {
+  cursor: pointer;
+  border: 1px solid var(--medium-blue);
+  padding: var(--padding-sm) var(--padding-50xl) var(--padding-base);
+  background-color: transparent;
+  width: 172px;
+  border-radius: var(--br-7xs);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}

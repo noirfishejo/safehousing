@@ -1,0 +1,61 @@
+.p15 {
+  margin: 0;
+}
+.b {
+  width: 500px;
+  position: relative;
+  letter-spacing: 0.1em;
+  line-height: 150%;
+  display: inline-block;
+}
+.search5 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+}
+.forgetpasswords {
+  position: relative;
+  letter-spacing: 0.1em;
+  line-height: 160%;
+}
+.login-signup {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-5xl);
+  font-size: var(--regular-t-size);
+}
+.search4,
+.title-btn {
+  position: absolute;
+  left: calc(50% - 386px);
+  width: 772px;
+  height: 228px;
+}
+.title-btn {
+  top: calc(50% - 114px);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: center;
+  gap: var(--gap-81xl);
+}
+.search4 {
+  top: 220px;
+}
+.section-1-search {
+  align-self: stretch;
+  position: relative;
+  height: 800px;
+  background-image: url(/public/section1search@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: center;
+  font-size: var(--xl-t-size);
+  color: var(--medium-blue);
+  font-family: var(--s-t);
+}
